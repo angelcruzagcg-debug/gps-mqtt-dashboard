@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GPS MQTT Dashboard (Simulador de Rastreo)
 
 Proyecto sencillo para **simular vehículos** publicando posiciones **GPS** por **MQTT** y visualizar en un **dashboard web** con **Leaflet** en tiempo real.
@@ -88,3 +89,6 @@ mosquitto_pub -h localhost -t fleet/test/telemetry -m '{"id":"test","lat":14.6,"
 ---
 
 © 2025 – Proyecto educativo.
+=======
+
+>>>>>>> 0b54c1d2932913a6b5fa7ed09e9dfad6569190aa
